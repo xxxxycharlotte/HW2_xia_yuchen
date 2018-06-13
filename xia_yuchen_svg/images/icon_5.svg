@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="icon_x5F_5" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 78 72.7" style="enable-background:new 0 0 78 72.7;" xml:space="preserve">
+<style type="text/css">
+	.st0{stroke:#000000;stroke-miterlimit:10;}
+
+	#details{
+	     display: block;
+	}
+
+	@media screen and (max-width: 150px;) {
+
+	    #details {
+	         display: none;
+	    }
+
+    }
+</style>
+<path id="arrow" class="st0" d="M35.6,37.8v-30c3.6-4.3,7.1-4.5,10.6,0v30l13.2-12.3c5.3-3,6.7,0,6.2,6.2l-22,22.9
+	c-2.6,1.2-4.4,1.7-4.4,0L14.4,30.7c1.3-5.9,3.8-7,7.1-5.3L35.6,37.8z"/>
+<polygon id="downlound" class="st0" points="6.5,51.9 14.4,51.9 14.4,59.8 67.3,59.8 67.3,51.9 74.4,51.9 74.4,66.8 6.5,67.7 "/>
+</svg>

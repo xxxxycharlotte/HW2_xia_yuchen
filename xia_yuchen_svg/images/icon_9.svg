@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="icon_x5F_9" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 91 91" style="enable-background:new 0 0 91 91;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.st1{stroke:#000000;stroke-miterlimit:10;}
+
+	#details{
+	     display: block;
+	}
+
+	@media screen and (max-width: 150px;) {
+
+	    #details {
+	         display: none;
+	    }
+
+    }
+</style>
+<circle id="out" class="st0" cx="45.3" cy="48.3" r="34.8"/>
+<polygon id="horn" class="st1" points="29,36.7 36,36.7 48.3,27.4 48.3,65.2 35.2,57.5 28.3,57.5 "/>
+<path id="sound" class="st1" d="M57.6,35.1l2.3-0.8c8.1,11.4,4.3,19.9-1.5,27.8l-0.8-2.3C63.3,51.1,64,42.8,57.6,35.1z"/>
+</svg>
